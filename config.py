@@ -8,7 +8,7 @@ class Config(object):
     OWNER_USERNAME = "Ali1313_Ha"
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = 'sqldbtype://alihashemi1313:Ali.1313@hostname:port/alihashemi1313'  # needed for any database modules
     MESSAGE_DUMP = None  # needed to make sure 'save from' messages persist
     LOAD = []
     # sed has been disabled after the discovery that certain long-running sed commands maxed out cpu usage
